@@ -1,0 +1,7 @@
+30-01-2021,1000,Cleveland Cavaliers
+05-02-2021,500,Detroit Pistons
+10-02-2021,6000,Indiana Pacers
+02-03-2021,2000,Milwaukee Bucks
+12-03-2021,4000,Detroit Pistons
+03-04-2021,3000,Cleveland Cavaliers
+13-04-2021,300,Milwaukee Bucks
